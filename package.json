@@ -1,0 +1,29 @@
+{
+  "name": "buildboxwebtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.2.2"
+  },
+  "scripts": {
+    "test": "npx cypress run",
+    "cypress:runReport":"cypress run --browser chrome --spec cypress/integration/*.spec.js"
+
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matimenezes/BuildBoxWebTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matimenezes/BuildBoxWebTest/issues"
+  },
+  "homepage": "https://github.com/Matimenezes/BuildBoxWebTest#readme"
+}
