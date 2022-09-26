@@ -1,7 +1,7 @@
 # BuildBoxWebTest
 
 
-Este é um script de automação so site https://buger-eats.vercel.app/.
+Este é um script de automação do site https://buger-eats.vercel.app/.
 
 
 
