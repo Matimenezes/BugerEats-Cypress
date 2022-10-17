@@ -51,3 +51,13 @@ JavaScript
 Cypress
 
 Mochawesome
+
+## Cenários
+
+### Cenário - Home page
+
+* Validar botão tela home 
+
+![Buger-Eats-Google-Chrome-2022-10-17-19-28-18](https://user-images.githubusercontent.com/108771074/196300427-7934541d-3b66-4196-9378-cc64af032f4e.gif)
+
+
