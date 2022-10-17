@@ -1,4 +1,4 @@
-# BuildBoxWebTest
+# Buger eats - cypress
 
 
 Este é um script de automação do site https://buger-eats.vercel.app/.
