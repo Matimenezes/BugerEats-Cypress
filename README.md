@@ -68,6 +68,6 @@ Mochawesome
 * Cadastro inválido ao não inserir uma foto da CNH.
 * Campos obrigatórios.
 
-![Buger-Eats-Google-Chrome-2022-10-17-19-28-18](https://user-images.githubusercontent.com/108771074/196302072-4052906a-48ad-404e-b55d-6f73e9ac3bcc.gif)
+![Buger-Eats-Google-Chrome-2022-10-17-19-27-12](https://user-images.githubusercontent.com/108771074/196302211-014a438c-6ef1-4ede-aa1a-5917b406672d.gif)
 
 
