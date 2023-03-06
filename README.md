@@ -5,7 +5,7 @@ Projeto feito para testar uma aplicação que simula um aplicativo de delivery, 
 Nesse projeto foram feitos testes de fluxos positivos e negativos, no cenário de cadastro. 
 
 
-##Construção Tecnologias utilizadas🛠️
+## 🛠 Construção Tecnologias utilizadas
 
 Node
 
