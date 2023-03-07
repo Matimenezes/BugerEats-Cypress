@@ -7,13 +7,13 @@ Nesse projeto foram feitos testes de fluxos positivos e negativos, no cenário d
 
 ## 🛠 Construção Tecnologias utilizadas
 
-Node
+* Node
 
-JavaScript
+* JavaScript
+ 
+* Cypress
 
-Cypress
-
-Mochawesome
+* Mochawesome
 
 ## Cenários
 
